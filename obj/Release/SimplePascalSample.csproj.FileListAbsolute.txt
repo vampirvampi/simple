@@ -1,0 +1,31 @@
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\obj\Release\ResolveAssemblyReference.cache
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Release\SimplePascalParser.dll
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Release\SimplePascalParser.pdb
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Release\Errors.dll
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Release\Localization.dll
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Release\ParserTools.dll
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Release\SyntaxTree.dll
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\obj\Release\SimplePascalParser.dll
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\obj\Release\SimplePascalParser.pdb
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Release\SimplePascalParser.exe
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Release\SimplePascalParser.pdb
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Release\Errors.dll
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Release\Localization.dll
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Release\ParserTools.dll
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Release\SyntaxTree.dll
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\obj\Release\ResolveAssemblyReference.cache
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\obj\Release\SimplePascalParser.exe
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\obj\Release\SimplePascalParser.pdb
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\bin\Release\SimplePascalParser.exe
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\bin\Release\SimplePascalParser.pdb
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\bin\Release\Errors.dll
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\bin\Release\Localization.dll
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\bin\Release\ParserTools.dll
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\bin\Release\SyntaxTree.dll
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\obj\Release\SimplePascalSample.csprojAssemblyReference.cache
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\obj\Release\SimplePascalParser.MAINwindow.resources
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\obj\Release\SimplePascalSample.csproj.GenerateResource.cache
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\obj\Release\SimplePascalSample.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\obj\Release\SimplePascalSample.csproj.CopyComplete
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\obj\Release\SimplePascalParser.exe
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\obj\Release\SimplePascalParser.pdb

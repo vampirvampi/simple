@@ -1,0 +1,31 @@
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\obj\Debug\ResolveAssemblyReference.cache
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Debug\Errors.dll
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Debug\SyntaxTree.dll
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Debug\Localization.dll
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Debug\ParserTools.dll
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Debug\SimplePascalParser.dll
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Debug\SimplePascalParser.pdb
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\obj\Debug\SimplePascalParser.dll
+D:\MIK\_Курсовые\Горшкова & малтапар\SimplePas_G1\obj\Debug\SimplePascalParser.pdb
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Debug\SimplePascalParser.pdb
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Debug\Errors.dll
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Debug\Localization.dll
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Debug\ParserTools.dll
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Debug\SyntaxTree.dll
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\obj\Debug\ResolveAssemblyReference.cache
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\obj\Debug\SimplePascalParser.pdb
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\bin\Debug\SimplePascalParser.exe
+D:\MIK\Курсовые\Горшкова & малтапар\SimplePas_G1\obj\Debug\SimplePascalParser.exe
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\bin\Debug\SimplePascalParser.exe
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\bin\Debug\SimplePascalParser.pdb
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\bin\Debug\Errors.dll
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\bin\Debug\Localization.dll
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\bin\Debug\ParserTools.dll
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\bin\Debug\SyntaxTree.dll
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\obj\Debug\SimplePascalSample.csprojAssemblyReference.cache
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\obj\Debug\SimplePascalSample.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\obj\Debug\SimplePascalSample.csproj.CopyComplete
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\obj\Debug\SimplePascalParser.exe
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\obj\Debug\SimplePascalParser.pdb
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\obj\Debug\SimplePascalParser.MAINwindow.resources
+C:\Users\Пользователь\Downloads\SimplePas0\SimplePas_G1\obj\Debug\SimplePascalSample.csproj.GenerateResource.cache
